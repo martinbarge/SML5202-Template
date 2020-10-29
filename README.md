@@ -1,8 +1,14 @@
 # SML5202-Template
 ## How to use this template
-To use this template, go to Fork at the top right of the window.
+To use this template, go to Add button at the top right of the window.
 
-This will copy the files into your own GitHub Repositories area.
+Select Import Repository
+
+Create a name for your new repository. E.G.: SML5202-2020-Final-YourName
+
+Paste this URL into the Import from panel: https://martinbarge.github.io/SML5202-Template/
+
+This will import the files into your new GitHub Repository.
 
 Next, rename the repository to YourName-SML5202-2020-Final
 
