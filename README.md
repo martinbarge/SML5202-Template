@@ -10,6 +10,10 @@ Paste this URL into the Import from panel: https://martinbarge.github.io/SML5202
 
 This will import the files into your new GitHub Repository.
 
-Once you've imported the repository, you can edit the CSS file to change your styles.
+Next go to Settings, and find GitHub Pages. There, set the Branch to Main and then save.
 
-And you can edit the HTML pages with your own content.
+Your site is then published.
+
+Now you can edit the HTML pages with your own content. Every page contains comments <!-- COMMENTS --> to guide you. 
+
+And you can edit the CSS file (in css/syles.css) to change your styles. 
